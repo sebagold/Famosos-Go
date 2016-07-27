@@ -1,2 +1,2 @@
 Ricardo fort,fort.jpg,-34.6139419,-58.4791101,0,24
-Gigolo,gigolo.jpg,-58.4173101,-58.4791101,0,24
+Gigolo,gigolo.jpg,-34.6139419,-58.4791101,0,24
