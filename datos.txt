@@ -1,2 +1,3 @@
 Ricardo fort,fort.jpg,-34.6139419,-58.4791101,0,24
 Gigolo,gigolo.jpg,-34.6139419,-58.4791101,0,24
+Atendedor de boludos,boludo.jpg,-34.6139419,-58.4791101,0,24
